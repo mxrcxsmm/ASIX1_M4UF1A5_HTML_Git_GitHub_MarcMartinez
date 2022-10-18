@@ -1,0 +1,77 @@
+#header {
+    /* propiedad que permite alterar la altura */
+    height: 50vh;
+    background-image: url('../img/git\ vs\ github.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header h1 {
+    color: black;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+}
+
+#main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#main p {
+    font-size: 20px;
+}
+
+#main h1 {
+    font-size: 40px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+* {
+    text-decoration: none;
+    color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    text-align: justify;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+img {
+    width: 2%;
+    height: 2%;
+    margin-left: 15%;
+    position: absolute;
+    left: 50px;
+}
+
+li {
+    text-align: justify;
+    margin-right: 22%;
+    margin-left: 22%;
+}
